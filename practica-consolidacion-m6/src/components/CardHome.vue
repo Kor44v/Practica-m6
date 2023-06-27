@@ -18,12 +18,6 @@
                 <i class="fa-solid fa-heart fa-lg heart" style="color: #ff0000;"></i>
             </div>
           </div>
-          <!-- <img :src="juego.background_image" class="card-img-top" style="object-fit:cover;height:200px" alt="...">
-          <div class="card-body text-start">
-            <h5 class="card-title">{{juego.name}}</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Opiniones</a>
-          </div> -->
         </div>
       </div>
     </div>
@@ -31,7 +25,6 @@
 </template>
 
 <script>
-// import GameView from '@/views/GameView.vue'
 export default {
   name: "cards-comp",
   created() {},
